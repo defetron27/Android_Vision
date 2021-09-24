@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "219319578236",
+    "firebase_url": "https://visionkit-962b2.firebaseio.com",
+    "project_id": "visionkit-962b2",
+    "storage_bucket": "visionkit-962b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219319578236:android:908778e2bb43c50b",
+        "android_client_info": {
+          "package_name": "com.deffe.max.vision"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219319578236-adcukk6lpkqc558lo79ja94f06pck44i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.deffe.max.vision",
+            "certificate_hash": "c1fdf431c64b962bd1bf42ddd4e7255d01d76f6a"
+          }
+        },
+        {
+          "client_id": "219319578236-k99qrcpd9k7ko7qm4ljo6lgs0f6ao6pb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXacaJ4sf5bQ-DyCJJYXVfg1w-M5uz5KE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219319578236-k99qrcpd9k7ko7qm4ljo6lgs0f6ao6pb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
